@@ -125,6 +125,9 @@ header img {
     font-size: 30px;
     width: 50%;
   }
+  .grey br {
+    display: none;
+  }
   .white {
     margin-left: 105px;
     padding-left: 15%;
